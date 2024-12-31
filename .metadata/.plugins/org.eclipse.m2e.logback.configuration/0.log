@@ -478,3 +478,4 @@
 2024-12-31 14:04:51,715 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Admin\eclipse-workspace\Sample_java\src\test\resources
 2024-12-31 14:05:01,753 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2024-12-31 14:05:31,545 [Worker-10: Launching Sample_java (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Admin\eclipse-workspace\Sample_java
+2024-12-31 14:05:31,546 [Worker-10: Launching Sample_java (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install test
